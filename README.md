@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c8369f1b-e447-4d0a-81cb-31916387bea3" /><div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&pause=1000&color=3FA9FF&center=true&vCenter=true&width=600&lines=Application+Security+Researcher;IDOR+%2F+Broken+Access+Control;Authentication+Flaws;Business+Logic+Vulnerabilities" alt="Typing SVG" />
 
@@ -79,12 +79,15 @@ Workflow abuse, price manipulation, and trust boundary violations that scanners 
 | Hacker101 CTF points | Disclosed reports analyzed | Focus classes locked | HackerOne VDP hunting |
 
 </div>
-
 <br>
 
 ## GitHub Activity
 <div align="center">
 <img src="https://github-readme-stats-taupe-three-27.vercel.app/api?username=MalikHettige&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+<br>
+<img src="https://streak-stats.demolab.com/?user=MalikHettige&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+<br>
+<img src="https://raw.githubusercontent.com/MalikHettige/MalikHettige/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph animation" />
 </div>
 <br>
 

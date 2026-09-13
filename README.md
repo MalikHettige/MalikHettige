@@ -78,13 +78,24 @@ Workflow abuse, price manipulation, and trust boundary violations that scanners 
 <br>
 
 ## GitHub Activity
-<div align="center">
+
+<table align="center">
+<tr>
+<td align="center">
 <img src="https://github-readme-stats-taupe-three-27.vercel.app/api?username=MalikHettige&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-<br>
-<img src="https://streak-stats.demolab.com/?user=MalikHettige&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
-<br>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://streak-stats.demolab.com/?user=MalikHettige&theme=tokyonight&hide_border=false" alt="GitHub streak stats" />
+</td>
+</tr>
+<tr>
+<td align="center">
 <img src="https://raw.githubusercontent.com/MalikHettige/MalikHettige/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph animation" />
-</div>
+</td>
+</tr>
+</table>
 <br>
 
 ## Tools & Stack

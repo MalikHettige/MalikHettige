@@ -1,5 +1,3 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c8369f1b-e447-4d0a-81cb-31916387bea3" /><div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&pause=1000&color=3FA9FF&center=true&vCenter=true&width=600&lines=Application+Security+Researcher;IDOR+%2F+Broken+Access+Control;Authentication+Flaws;Business+Logic+Vulnerabilities" alt="Typing SVG" />
 
 # Malik Dishan Hettige

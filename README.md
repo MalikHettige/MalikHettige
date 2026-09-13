@@ -1,29 +1,27 @@
+<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&pause=1000&color=3FA9FF&center=true&vCenter=true&width=600&lines=Application+Security+Researcher;IDOR+%2F+Broken+Access+Control;Authentication+Flaws;Business+Logic+Vulnerabilities" alt="Typing SVG" />
+</p>
 
-# Malik Dishan Hettige
+<h1 align="center">Malik Dishan Hettige</h1>
 
-**Self-taught Application Security Researcher — Sri Lanka**
+<p align="center"><strong>Self-taught Application Security Researcher — Sri Lanka</strong></p>
 
-Hunting on HackerOne VDP programs. No degree, no bootcamp — PortSwigger labs, disclosed reports, and reps.
+<p align="center">Hunting on HackerOne VDP programs. No degree, no bootcamp — PortSwigger labs, disclosed reports, and reps.</p>
 
-<br>
+<p align="center">
+<a href="https://MalikHettige.github.io"><img src="https://img.shields.io/badge/Portfolio-MalikHettige.github.io-3FA9FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-MalikHettige.github.io-3FA9FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://MalikHettige.github.io)
-
-<br>
-
-[![X](https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/MalikHettige)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MalikHettige)
-[![Medium](https://img.shields.io/badge/Medium-blog-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@MalikHettige)
-[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=flat-square&logo=hackerone&logoColor=white)](https://hackerone.com/malikdishan)
-[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-494649?style=flat-square&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/MalikHettige)
-[![Intigriti](https://img.shields.io/badge/Intigriti-494649?style=flat-square&logo=intigriti&logoColor=white)](https://app.intigriti.com/researcher/malikdishan17)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1117052789663739914)
-[![Email](https://img.shields.io/badge/Email-malikdishan09%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:malikdishan09@gmail.com)
-
-</div>
-
-<br>
+<p align="center">
+<a href="https://x.com/MalikHettige"><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white" /></a>
+<a href="https://github.com/MalikHettige"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://medium.com/@MalikHettige"><img src="https://img.shields.io/badge/Medium-blog-000000?style=flat-square&logo=medium&logoColor=white" /></a>
+<a href="https://hackerone.com/malikdishan"><img src="https://img.shields.io/badge/HackerOne-494649?style=flat-square&logo=hackerone&logoColor=white" /></a>
+<a href="https://bugcrowd.com/MalikHettige"><img src="https://img.shields.io/badge/Bugcrowd-494649?style=flat-square&logo=bugcrowd&logoColor=white" /></a>
+<a href="https://app.intigriti.com/researcher/malikdishan17"><img src="https://img.shields.io/badge/Intigriti-494649?style=flat-square&logo=intigriti&logoColor=white" /></a>
+<a href="https://discord.com/users/1117052789663739914"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
+<a href="mailto:malikdishan09@gmail.com"><img src="https://img.shields.io/badge/Email-malikdishan09%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
 
 ## About me:
 

@@ -90,6 +90,7 @@ Workflow abuse, price manipulation, and trust boundary violations that scanners 
 <img src="https://streak-stats.demolab.com/?user=MalikHettige&theme=tokyonight&hide_border=false" alt="GitHub streak stats" />
 </td>
 </tr>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MalikHettige&layout=compact&theme=radical)
 <tr>
 <td align="center">
 <img src="https://raw.githubusercontent.com/MalikHettige/MalikHettige/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph animation" />

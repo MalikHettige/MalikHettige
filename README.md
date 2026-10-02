@@ -141,7 +141,7 @@ Workflow abuse, price manipulation, and trust boundary violations that scanners 
 | [**Bug-bounty-reports**](https://github.com/MalikHettige/Bug-bounty-reports) | Real track record — live HackerOne VDP findings, disclosed report analysis, lessons from rejections | Markdown |
 | [**Research-notes**](https://github.com/MalikHettige/Research-notes) | Distilled knowledge — cheat sheets, concepts, and techniques organized by vulnerability class | Markdown |
 | [**CTF**](https://github.com/MalikHettige/CTF) | Capture The Flag challenges across several platforms, mostly Hacker101 | Markdown |
-| [**python-programming**](https://github.com/MalikHettige/python-programming) | Python tooling for security automation and bug bounty workflows | Python |
+| [**Scripts-and-tools**](https://github.com/MalikHettige/python-programming) | Python tooling for security automation and bug bounty workflows | Python |
 | [**My-Projects**](https://github.com/MalikHettige/projects) | Every application and custom labs I have built for fluency in critical severity bugs exploitations | Markdown |
 | [**MalikHettige.github.io**](https://github.com/MalikHettige/MalikHettige.github.io) | Source for the live portfolio site | HTML |
 | [**desync-saml-orm-ssti-chain**](https://github.com/MalikHettige/desync-saml-orm-ssti-chain) | Multi-stage security research — HTTP Desync → Golden SAML → ORM → Blind SSTI | Security Research |

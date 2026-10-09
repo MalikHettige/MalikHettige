@@ -143,7 +143,6 @@ Workflow abuse, price manipulation, and trust boundary violations that scanners 
 | [**CTF**](https://github.com/MalikHettige/CTF) | Capture The Flag challenges across several platforms, mostly Hacker101 | Markdown |
 | [**Scripts-and-tools**](https://github.com/MalikHettige/python-programming) | Python tooling for security automation and bug bounty workflows | Python |
 | [**My-Projects**](https://github.com/MalikHettige/projects) | Every application and custom labs I have built for fluency in critical severity bugs exploitations | Markdown |
-| [**MalikHettige.github.io**](https://github.com/MalikHettige/MalikHettige.github.io) | Source for the live portfolio site | HTML |
 | [**desync-saml-orm-ssti-chain**](https://github.com/MalikHettige/desync-saml-orm-ssti-chain) | Multi-stage security research — HTTP Desync → Golden SAML → ORM → Blind SSTI | Security Research |
 | [**Smart-Contract-Security**](https://github.com/MalikHettige/Smart-Contract-Security) | Web3 security research — Solidity vulnerabilities, DeFi exploits, and smart contract auditing via Foundry, Ethernaut, and Damn Vulnerable DeFi | Security Research |
 | [**SVG-Picker**](https://github.com/MalikHettige/practice-extension) | First browser extension: hover-pick inline SVGs, resolve sprites and styles, and preview, download or copy them | JavaScript |

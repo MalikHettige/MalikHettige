@@ -20,7 +20,6 @@
 <a href="https://bugcrowd.com/MalikHettige"><img src="https://img.shields.io/badge/Bugcrowd-494649?style=flat-square&logo=bugcrowd&logoColor=white" /></a>
 <a href="https://app.intigriti.com/researcher/malikdishan17"><img src="https://img.shields.io/badge/Intigriti-494649?style=flat-square&logo=intigriti&logoColor=white" /></a>
 <a href="https://discord.com/users/1117052789663739914"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
-<a href="mailto:malikdishan09@gmail.com"><img src="https://img.shields.io/badge/Email-malikdishan09%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ## About me:
